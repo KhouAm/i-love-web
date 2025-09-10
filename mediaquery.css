@@ -1,0 +1,10 @@
+body {
+    background-color: deeppink;
+    @media (min-width: 35em){background-color: pink;}
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
