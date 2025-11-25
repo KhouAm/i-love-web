@@ -2,9 +2,7 @@
 
 Learning Journal en Digital Gardening
 
-De instructie voor deze leertaak vind je in: [INSTRUCTIONS](https://github.com/fdnd-task/i-love-web/blob/main/docs/INSTRUCTIONS.md)
+welkom!
+in mijn learnign journal vind je progressie die ik de afgelopen periode heb gemaakt, of nog ga maken. 
+Ook ben ik hier lekker aan het experimenteren met css tricks! neem een kijkje!!!1
 
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
